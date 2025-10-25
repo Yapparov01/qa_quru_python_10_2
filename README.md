@@ -1,0 +1,1 @@
+# qa_quru_python_10_2
